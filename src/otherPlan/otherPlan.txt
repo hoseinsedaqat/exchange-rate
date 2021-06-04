@@ -1,0 +1,9 @@
+Other Paln for UI design i'm refused this plan but is good for Ui with my opinion
+
+<!-- <div class="container">
+    <div class="row">
+      <div class="col-md-9 col-sm-6 mx-auto"> -->
+  <!-- <h3 class="text-center">Sana system Daily foreign exchange market rates</h3> -->
+    <!-- </div>
+    </div>
+  </div> -->
