@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>&copy; 2021 H∅3ein</p>
+    <p>&copy; 2021 H∅3ƎIИ</p>
   </footer>
 </template>
 
