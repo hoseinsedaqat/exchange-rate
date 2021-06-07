@@ -1,4 +1,4 @@
-# exchange rate Pwa
+# exchange rate App 
 
 ## Project setup
 ```
