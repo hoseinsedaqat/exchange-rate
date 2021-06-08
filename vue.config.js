@@ -33,7 +33,7 @@ module.exports = {
                     type: "image/png",
                     purpose: "maskable"
                 }
-            ]
+            ],
         }
     }
 }
